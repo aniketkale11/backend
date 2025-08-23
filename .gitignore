@@ -1,0 +1,11 @@
+# Ignore editor & system files
+.vscode/
+*.log
+*.DS_Store
+
+# Node modules (if any frontend uses Node)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
